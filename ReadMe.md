@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on Veela and The Spark<br>Ask me about Rust programming language
+ I’m currently working on projects like Veela and The Spark<br>Ask me about Rust programming language or Pen-Testing.
 
 
 ## 🌐 Socials:
