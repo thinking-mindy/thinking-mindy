@@ -1,6 +1,5 @@
 # 💫 About Me:
  I’m currently working on projects like Veela and The Spark<br>Ask me about Rust programming language or Pen-Testing.
-[![Website](https://www.thinkingminds.co.zw/images/favicon.png)](https://www.thinkingminds.co.zw)
 
 ## 🌐 Socials:
 [![Website](https://www.thinkingminds.co.zw/images)](https://www.thinkingminds.co.zw)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thinkingminds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talent-chikamhi) 
