@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on projects like Veela and The Spark<br>Ask me about Rust programming language or Pen-Testing.
+I'm the Thinking Mind, driven by a relentless pursuit of efficiency and security in software development. My well focused thinking develops intuitive and scalable desktop and web-based solutions that empower my clients to achieve their goals and realize their vision. I'm a visionary software developer and pen-tester unified by a passion for creating cutting-edge applications. Unrelated, i'm so dedicated to helping businesses and individuals succeed in a rapidly evolving digital landscape.
 
 ## 🌐 Socials:
 [![Website](https://www.thinkingminds.co.zw/images)](https://www.thinkingminds.co.zw)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thinkingminds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talent-chikamhi) 
