@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jtchikamhi@gmail.com**
 
-- ⚡ Fun fact **Talk is cheap show me the code.**
+- ⚡ Fun fact: **I refuse to be what you call normal.**
 
 - 👨‍💻 All of my projects are available at **[https://thinkingminds.co.zw/myself/projects](https://thinkingminds.co.zw/about)**
 
